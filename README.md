@@ -23,7 +23,7 @@ And [ChromeWebDriver](https://sites.google.com/a/chromium.org/chromedriver/downl
 
 ### Use
 * Write your user name and key
-* If you don't have current Rewards, You Sould change **div[5]** to **div[4]** in Line #99
+* If you don't have current Redeem Rewards, You Sould change **div[5]** to **div[4]** in Line #99
 * Run ;)
 
 * For real working: should be yesreal=1  !! ALL RESPONSIBILITIES YOUR OWN !! 
