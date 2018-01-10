@@ -6,7 +6,7 @@
 
 ######################################################################
 # --!-- WARNING! --!--
-# YOU MUST, FIRST TRY WITH yesreal ==0
+# YOU MUST, FIRST TRY WITH yesreal=0
 # WHILE SETUP OR CONFIGURATION
 # YOU MAY LOSE SBD/STEEM
 # !! ALL RESPONSIBILITIES YOUR OWN !!
@@ -112,9 +112,11 @@ for btn in redembutton:
 
     # fill "amount"
     time.sleep(1)
-    if yesreal ==1:
+    # send ALL SBD to > someone or exchange
+    if yesreal ==1:      
       Cliq(515,500)
     else:
+      # send 0.001 SBD to > someone or exchange
       Cliq(503,463); Write('0.001')
 
 
