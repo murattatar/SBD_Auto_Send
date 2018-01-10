@@ -3,7 +3,7 @@ Auto Send Steem Dollars to BitTrex or Others Peoples/Exchanges
 
 ---
 # --!-- WARNING! --!--
-###### YOU MUST, FIRST TRY WITH yesreal ==0
+###### YOU MUST, FIRST TRY WITH yesreal=0
 ###### WHILE SETUP OR CONFIGURATION
 ###### YOU MAY LOSE SBD/STEEM
 ###### !! ALL RESPONSIBILITIES YOUR OWN !!
@@ -26,5 +26,5 @@ And [ChromeWebDriver](https://sites.google.com/a/chromium.org/chromedriver/downl
 * If you don't have current Rewards, You Sould change **div[5]** to **div[4]** in Line #99
 * Run ;)
 
-* For real working: should be yesreal ==1  !! ALL RESPONSIBILITIES YOUR OWN !! 
+* For real working: should be yesreal=1  !! ALL RESPONSIBILITIES YOUR OWN !! 
 
