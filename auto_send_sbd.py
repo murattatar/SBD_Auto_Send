@@ -50,10 +50,10 @@ def e():
   exit()
 
 
-## Auto Sell SBD @ BitTrex  #########################################
+## Auto Send SBD to BitTrex  #########################################
 
 
-# Login into Steemit
+# First, Login into Steemit
 
 page = web.Chrome("chromedriver.exe")
 url = 'https://steemit.com/login.html'
